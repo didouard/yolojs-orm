@@ -1,0 +1,23 @@
+{
+  "name": "yolojs-orm",
+  "version": "1.0.0",
+  "description": "Another orm but in YoloJS !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://didouard@github.com/didouard/yolojs-orm.git"
+  },
+  "keywords": [
+    "yolojs",
+    "orm"
+  ],
+  "author": "Edouard FERRARI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didouard/yolojs-orm/issues"
+  },
+  "homepage": "https://github.com/didouard/yolojs-orm#readme"
+}
